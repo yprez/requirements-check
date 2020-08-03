@@ -16,7 +16,7 @@ scipy==1.2.2
 docutils==0.16
 Pygments==2.2.0
 enum34
-requests==2.18.2
+requests==2.20.0
 pytz==2019.2
 redis==3.5.3
 rq==1.5.0
