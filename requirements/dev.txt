@@ -1,7 +1,0 @@
--r base.txt
-pytest
-pytest-flask
-pytest-cov
-Click
-flake8
-fakeredis
