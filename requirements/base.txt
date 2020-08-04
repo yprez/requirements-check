@@ -18,7 +18,7 @@ Pygments==2.6.1
 requests==2.24.0
 pytz==2020.1
 redis==3.5.3
-rq==1.4.3
+rq==1.5.0
 Flask-RQ2==18.3
 croniter==0.3.34
 natsort==7.0.1
