@@ -23,3 +23,5 @@ Flask-RQ2==18.3
 croniter==0.3.34
 natsort==7.0.1
 rq-scheduler==0.10.0
+dnspython==2.0.0
+email-validator==1.1.1
