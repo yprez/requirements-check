@@ -24,4 +24,4 @@ croniter==1.0.8
 natsort==7.1.1
 rq-scheduler==0.11.0
 dnspython==2.1.0
-newrelic==5.24.0.153
+newrelic==6.2.0.156
