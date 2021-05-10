@@ -1,0 +1,34 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Flask = "*"
+flask-httpauth = "*"
+gunicorn = "*"
+numpy = "*"
+passlib = "*"
+pymongo = "*"
+python-dateutil = "*"
+scipy = "*"
+docutils = "*"
+requests = "*"
+pytz = "*"
+redis = "*"
+rq = "*"
+dnspython = "*"
+newrelic = "*"
+Flask-PyMongo = "*"
+Flask-RQ2 = "*"
+Flask-Autodoc = {editable = true, git = "https://github.com/MeirKriheli/flask-autodoc.git"}
+
+[dev-packages]
+pytest = "*"
+pytest-flask = "*"
+pytest-cov = "*"
+Click = "*"
+flake8 = "*"
+
+[requires]
+python_version = "3.8"
