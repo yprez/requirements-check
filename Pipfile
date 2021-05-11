@@ -29,6 +29,7 @@ pytest-flask = "*"
 pytest-cov = "*"
 Click = "*"
 flake8 = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.8"
