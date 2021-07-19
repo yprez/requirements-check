@@ -18,10 +18,11 @@ pytz = "*"
 redis = "*"
 rq = "*"
 dnspython = "*"
-newrelic = "*"
 Flask-PyMongo = "*"
 Flask-RQ2 = "*"
 Flask-Autodoc = {editable = true, git = "https://github.com/MeirKriheli/flask-autodoc.git"}
+pygments = "*"
+flask-talisman = "*"
 
 [dev-packages]
 pytest = "*"
